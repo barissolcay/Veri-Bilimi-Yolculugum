@@ -26,7 +26,7 @@ Bu yolculuk, aşağıdaki 6 ana aşamadan oluşmaktadır. Her aşama tamamlandı
 | 4     | İleri Seviye Uzmanlık (Opsiyonel) | PyTorch, Hugging Face                     | ⏳ Başlanacak |
 | 5     | Profesyonel Olgunluk & Etik        | AI Ethics, Veri Yönetişimi, Sunum         | ⏳ Başlanacak |
 
-> Yolculuğun tüm adımlarını, görev listelerini ve ölçülebilir hedefleri içeren detaylı plan için: **[Detaylı Yol Haritası](https://www.google.com/search?q=roadmap.md)**
+> Yolculuğun tüm adımlarını, görev listelerini ve ölçülebilir hedefleri içeren detaylı plan için: **[Detaylı Yol Haritası](roadmap.md)**
 
 -----
 
