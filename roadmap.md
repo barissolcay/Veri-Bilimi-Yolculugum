@@ -1,4 +1,4 @@
-# 📘 Detaylı Yol Haritası: Veri Profesyonelliği (2025-2026) Rev 2.1
+# 📘 Detaylı Yol Haritası: Veri Profesyonelliği (2025-2026)
 
 Merhaba! Bu doküman, son sınıf bilgisayar mühendisliği öğrencisi olarak 1 yıllık veri mühendisliği ve analistliği yolculuğumun takip listesidir. Her görevi tamamladığımda ✔️ ile işaretleyeceğim.
 
