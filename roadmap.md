@@ -1,7 +1,3 @@
-Elbette. İsteklerin doğrultusunda, son konuştuğumuz tüm kritik güncellemeleri içeren, GitHub'a doğrudan koyabileceğin temiz ve profesyonel bir yapıya sahip nihai yol haritan aşağıdadır.
-
----
-
 # 📘 Detaylı Yol Haritası: Veri Profesyonelliği (2025-2026) Rev 2.1
 
 Merhaba! Bu doküman, son sınıf bilgisayar mühendisliği öğrencisi olarak 1 yıllık veri mühendisliği ve analistliği yolculuğumun takip listesidir. Her görevi tamamladığımda ✔️ ile işaretleyeceğim.
