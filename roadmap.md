@@ -31,7 +31,6 @@ Merhaba! Bu doküman, son sınıf bilgisayar mühendisliği öğrencisi olarak 1
 - [ ] Conda/Mamba ile proje ortamını oluşturmak ve `requirements.txt` dosyasını hazırlamak.
 ### Capstone Proje Çıktısı
 - [ ] Projede kullanılacak sentetik kullanıcı verisini (yaş, harcama vb.) üreten bir Python script'i yazmak ve temel istatistiksel testleri uygulamak.
-- **Tanım-Tamam (DoD):** Tüm görevler ✔️lendi. Sentetik veri üreten script ve analiz notebook'u GitHub'a commit'lendi.
 
 ---
 
@@ -47,7 +46,6 @@ Merhaba! Bu doküman, son sınıf bilgisayar mühendisliği öğrencisi olarak 1
 ### Capstone Proje Çıktısı
 - [ ] Kaggle'dan indirilen e-ticaret veri setine kapsamlı bir Keşifsel Veri Analizi (EDA) yapmak.
 - [ ] **Ölçülebilir Hedef:** Analiz sonuçlarını içeren ve **en az 5 anlamlı iş KPI'ı (örn: Churn Rate, Müşteri Yaşam Boyu Değeri)** barındıran interaktif bir Power BI dashboard'u oluşturmak.
-- **Tanım-Tamam (DoD):** Tüm görevler ✔️lendi. EDA notebook'u ve Power BI dashboard linki repo'nun README dosyasında paylaşıldı.
 
 ---
 
@@ -64,7 +62,6 @@ Merhaba! Bu doküman, son sınıf bilgisayar mühendisliği öğrencisi olarak 1
 ### Capstone Proje Çıktısı
 - [ ] Veriyi Cloud Storage'dan alıp dbt ile BigQuery'de dönüştüren bir Cloud Composer DAG'ı kurmak.
 - [ ] **Ölçülebilir Hedef:** Pipeline'ın **en az 10 farklı veri kalite testinden** (örn: null kontrolü, benzersizlik) başarıyla geçmesini sağlamak.
-- **Tanım-Tamam (DoD):** Tüm görevler ✔️lendi. Cloud Composer'da çalışan DAG dosyaları ve dbt modelleri GitHub'a commit'lendi.
 
 ---
 
@@ -81,7 +78,7 @@ Merhaba! Bu doküman, son sınıf bilgisayar mühendisliği öğrencisi olarak 1
 ### Capstone Proje Çıktısı
 - [ ] BigQuery'deki temiz veriyle bir kullanıcı churn tahmin modeli eğitmek (dengesiz veri setleri için uygun metotlarla).
 - [ ] **Ölçülebilir Hedef:** Modeli **ROC-AUC (≥ 0.80) ve PR-AUC** metrikleri ile değerlendirmek. **Karar eşiğini (threshold) ayarlayarak** modelin iş etkisini (kurtarılan gelir simülasyonu) analiz etmek ve modeli bir FastAPI endpoint'i olarak deploy etmek.
-- **Tanım-Tamam (DoD):** Tüm görevler ✔️lendi. MLflow deney linki, FastAPI kodu ve CI pipeline'ının başarılı çalıştığını gösteren loglar repo'da mevcut.
+
 
 ---
 
@@ -96,7 +93,6 @@ Merhaba! Bu doküman, son sınıf bilgisayar mühendisliği öğrencisi olarak 1
 ### Capstone Proje Çıktısı
 - [ ] Projedeki kullanıcı yorumu verileriyle bir duygu analizi modeli uygulamak.
 - [ ] **Ölçülebilir Hedef:** Modelin test verisindeki **F1-Skorunu ≥ 0.80** yapmak.
-- **Tanım-Tamam (DoD):** Tüm görevler ✔️lendi. Duygu analizi notebook'u ve F1 skoru sonuçları repo'da paylaşıldı.
 
 ---
 
