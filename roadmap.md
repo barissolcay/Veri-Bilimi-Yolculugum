@@ -25,10 +25,10 @@ Merhaba! Bu doküman, son sınıf bilgisayar mühendisliği öğrencisi olarak 1
 
 ### Görevler
 - [ ] Lineer Cebir, Calculus, Olasılık ve İstatistik konularını Python (NumPy/SciPy) ile uygulamak.
-✅ Git/GitHub ile versiyon kontrolü mantığını oturtmak.
-✅ Linux komut satırı (CLI) temellerini öğrenmek.
+- ✅ Git/GitHub ile versiyon kontrolü mantığını oturtmak.
+- ✅ Linux komut satırı (CLI) temellerini öğrenmek.
 - [ ] Docker ile container mantığını anlamak ve basit bir imaj oluşturmak.
-✅ Conda/Mamba ile proje ortamını oluşturmak ve `requirements.txt` dosyasını hazırlamak.
+- ✅ Conda/Mamba ile proje ortamını oluşturmak ve `requirements.txt` dosyasını hazırlamak.
 ### Capstone Proje Çıktısı
 - [ ] Projede kullanılacak sentetik kullanıcı verisini (yaş, harcama vb.) üreten bir Python script'i yazmak ve temel istatistiksel testleri uygulamak.
 
